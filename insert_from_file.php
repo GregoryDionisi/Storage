@@ -50,6 +50,6 @@
 	}
     ?><br>
     
-    <a href="http://localhost/php/index.php">Visualizza elenco prodotti.</a>
+    <a href="http://localhost/storage/index.php">Visualizza elenco prodotti.</a>
   </body>
 </html>

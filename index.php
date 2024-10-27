@@ -36,13 +36,13 @@
 		@ $result->free();
 		@ $connection->close();
     ?><br>
-     <a href="http://localhost/php/add.php">
+     <a href="http://localhost/storage/add.php">
       Aggiungi un prodotto personaggio.
      </a><br>
-     <a href="http://localhost/php/del.php">
+     <a href="http://localhost/storage/del.php">
       Elimina un prodotto esistente.
      </a><br>
-     <a href="http://localhost/php/upload.php">
+     <a href="http://localhost/storage/upload.php">
       Carica prodotti da file.
      </a>
   </body>

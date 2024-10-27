@@ -37,7 +37,7 @@
      $stmt->close();
      $connection->close();
    ?><br><br>
-   <a href="http://localhost/php/index.php">
+   <a href="http://localhost/storage/index.php">
     Visualizza elenco prodotti.
    </a>
   </body>
