@@ -37,10 +37,10 @@
 		@ $connection->close();
     ?><br>
      <a href="http://localhost/storage/add.php">
-      Aggiungi un prodotto personaggio.
+      Aggiungi un libro.
      </a><br>
      <a href="http://localhost/storage/del.php">
-      Elimina un prodotto esistente.
+      Elimina un libro esistente.
      </a><br>
      <a href="http://localhost/storage/upload.php">
       Carica prodotti da file.
